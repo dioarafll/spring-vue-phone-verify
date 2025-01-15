@@ -163,6 +163,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Vue.js](https://vuejs.org)
 - [GitHub Repository](https://github.com/dioarafll/spring-vue-phone-verify.git)
+- [Twilio blog](https://www.twilio.com/en-us/blog/phone-number-verification-java-spring-boot-verify-totp)
 
 ---
 
